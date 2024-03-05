@@ -51,13 +51,13 @@
 
 ## Projects
 
-### AWS EC2 Backup and Restore Automation
+### [AWS EC2 Backup and Restore Automation](https://github.com/Zatch07/Backing-and-Restoring-AWS-EC2-instances-with-Automated-Script)
 - **AWS**, **EC2**, **Lambda**, **CloudWatch**, **S3**, **Python Scripts**, **CLI**
   - Engineered **AWS EC2** backup automation every 7 days with **Lambda** and **Python**; scheduled via **CloudWatch**.
   - Stored backups securely in **S3 Bucket**, managed access with **IAM**. Utilized **AWS CLI** for resource management.
   - Optimized quick recovery with custom scripts, ensuring backup takes place when system is not in a reboot state.
 
-### AWS LEX Chatbot with ChatGPT
+### [AWS LEX Chatbot with ChatGPT](https://github.com/Zatch07/AWS-LEX-chatbot-with-chatgpt)
 - **AWS**, **LEX**, **Lambda**, **ChatGPT**, **API Gateway**, **Serverless Architecture**
   - Integrated **Amazon Lex** with **ChatGPT** for an e-commerce chatbot, enhancing customer interaction.
   - Utilized **AWS Lambda** for backend processing, with **Python** for scripting and **OpenAI API** for AI responses.
@@ -68,7 +68,7 @@
   - Engineered a secure cloud-based VPN infrastructure by leveraging **Google Cloud's VM instances**, **Networking Tools**, and **Outline**, ensuring encrypted connections between the cloud environment and on-premises networks.
   - Bolstered a similar Multi-Region VPN setup using **AWS** and **OpenVPN**, enabling secure connections between cloud and on-premises networks while optimizing VM performance and resource utilization.
 
-### AWS Quicksight Visualization
+### [AWS Quicksight Visualization](https://github.com/Zatch07/AWS-Quicksight-visualization)
 - **Amazon S3**, **Amazon QuickSight**, **Data Visualization**, **Data Analysis**
   - Developed visualizations for a dataset of 50,000 Amazon best-selling products using **Amazon QuickSight**.
   - Leveraged **Amazon S3** for storage, employed a manifest.json file for management and **QuickSight** integration.
