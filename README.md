@@ -4,7 +4,7 @@
 
 - **LinkedIn**: [yashpal-parmar](https://www.linkedin.com/in/yashpal-parmar)
 - **GitHub**: [Zatch07](https://github.com/Zatch07)
-- **Website**: [yashh.in](https://yashh.in)
+- **Website**: [yashh.in](https://main.d2f88j8him6upd.amplifyapp.com/)
 - **Email**: yash.parmar2908@gmail.com
 - **Mobile**: +91-8696455275
 
